@@ -39,9 +39,9 @@ user@linux:/home/another_user$
 
 - `cat` — print the contain of file/показать, вывести содержание файла (concatenate, конкатенировать)
 EXAMPLE:
-user@linux:~$ cat notes.txt
+user@linux:\~$ cat notes.txt
 This is my text in this file.
-user@linux:~$
+user@linux:\~$
 
 - `echo` — print the next string/вывести следующую строку
 EXAMPLE:
