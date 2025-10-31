@@ -20,6 +20,7 @@ user@linux:\~$ (the system waits for the command from the user, now we are locat
 - `ls` — show files and directories in this directory/показать файлы и папки в данной директории, папке (listing, вывести список).
 
 EXAMPLE:
+
 user@linux:\~$ ls (the user enters the command/пользователь вводит команду)
 
 tree notes.txt cat.jpg (system prints the result/система выводит результат)
@@ -29,6 +30,7 @@ user@linux:\~$ (system waits for the next command/система ожидает 
 - `pwd` — show the current path/показать текущий путь (print working directory, вывести директорию, в которой работаем).
 
 EXAMPLE:
+
 user@linux:\~$ pwd
 
 /home/user
@@ -38,6 +40,7 @@ user@linux:\~$
 - `cd` — change the directory/перейти в определённую папку (change directory, сменить директорию).
 
 EXAMPLE:
+
 user@linux:\~$ cd / (change the directory to root/перемещение в корневую папку)
 
 user@linux:/$ cd home (choice among all the directories in that path)/выбор среди всех папок в этом пути)
@@ -51,6 +54,7 @@ user@linux:/home/another_user$
 - `cat` — print the contain of file/показать, вывести содержание файла (concatenate, конкатенировать).
 
 EXAMPLE:
+
 user@linux:\~$ cat notes.txt
 
 This is my text in this file.
@@ -60,6 +64,7 @@ user@linux:\~$
 - `echo` — print the next string/вывести следующую строку.
 
 EXAMPLE:
+
 user@linux:\~$ echo Hello
 
 Hello
