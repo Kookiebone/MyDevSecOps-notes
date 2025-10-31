@@ -1,15 +1,15 @@
 ## Windows
 
-#History/История
+# History/История
 
 
-#General description/Общее описание
+# General description/Общее описание
 
 
-#File system/Файловая система
+# File system/Файловая система
 
 
-#Active Directory
+# Active Directory
 
 
 #
