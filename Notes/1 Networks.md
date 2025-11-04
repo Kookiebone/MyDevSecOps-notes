@@ -2,12 +2,12 @@
 
 #A network/Сеть
 A network/Сеть — a system of connected between them computers (PC, laptops, servers, printers, other devices)./система связанных между собой компьютеров (ПК, ноутбуки, серверы, принтеры, другие устойства).
-Intranet/Интранет — internal network/внутренняя сеть. (it's creating for organisation, not private/создаётся для организаций, а не частных лиц)
-Internet/Интернет — global network of networks./глобальная сеть сетей. (everyone, who connects to Internet via Ethernet cable or router can connects to this./любой, кто подключён к Интернету с помощью Ethernet-кабеля или роутера, может подсоединиться к нему.)
-Information/Информация — data, signals, signs with patterns./данные, сигналы, символы с закономерностями.
-Hub (repeater)/Хаб (повторитель) — more simple (and older) version of switch./более простая (устаревшая) версия коммутатора.
-Switch/Коммутатор — a device, that connects computers with its ports and transfer data between them./устройство, соединяющее компьютеры через свои порты и передающее данные между ними. (connect to intranet./подключают к сети интранет.)
-Роутер (маршрутизатор) — устройство, соединяющие сети и передающее данные между ними. (connect to Internet./подключают к сети Интернет.)
+- Intranet/Интранет — internal network/внутренняя сеть. (it's creating for organisation, not private/создаётся для организаций, а не частных лиц)
+- Internet/Интернет — global network of networks./глобальная сеть сетей. (everyone, who connects to Internet via Ethernet cable or router can connects to this./любой, кто подключён к Интернету с помощью Ethernet-кабеля или роутера, может подсоединиться к нему.)
+- Information/Информация — data, signals, signs with patterns./данные, сигналы, символы с закономерностями.
+- Hub (repeater)/Хаб (повторитель) — more simple (and older) version of switch./более простая (устаревшая) версия коммутатора.
+- Switch/Коммутатор — a device, that connects computers with its ports and transfer data between them./устройство, соединяющее компьютеры через свои порты и передающее данные между ними. (connect to intranet./подключают к сети интранет.)
+- Роутер (маршрутизатор) — устройство, соединяющие сети и передающее данные между ними. (connect to Internet./подключают к сети Интернет.)
 
 ## Typologies of network/Типы сетей
 There are 3 basic tyologies, there isn't only the best or the worst among them, they have their advantages and disadvantages./Всего есть три основных вида сетей, у каждого из них свои особенности, потому нельзя однозначно сказать, что какой-то лучший, а другой — худший.
