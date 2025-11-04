@@ -1,6 +1,6 @@
 # Networks/Сети
 
-#A network/Сеть
+## A network/Сеть
 A network/Сеть — a system of connected between them computers (PC, laptops, servers, printers, other devices)./система связанных между собой компьютеров (ПК, ноутбуки, серверы, принтеры, другие устойства).
 - Intranet/Интранет — internal network/внутренняя сеть. (it's creating for organisation, not private/создаётся для организаций, а не частных лиц)
 - Internet/Интернет — global network of networks./глобальная сеть сетей. (everyone, who connects to Internet via Ethernet cable or router can connects to this./любой, кто подключён к Интернету с помощью Ethernet-кабеля или роутера, может подсоединиться к нему.)
